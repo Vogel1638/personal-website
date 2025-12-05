@@ -1,0 +1,7 @@
+#Files
+app/public/wp-config.php
+
+#Ordner
+app/sql/
+conf
+logs/
